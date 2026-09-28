@@ -1,0 +1,15 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+<rect width="600" height="600" fill="white" />
+<line x1="100" y1="0" x2="100" y2="600" stroke="black" stroke-width="2" />
+<line x1="0" y1="500" x2="600" y2="500" stroke="black" stroke-width="2" />
+<circle cx="100" cy="400" r="2" fill="green" />
+<circle cx="150" cy="300" r="2" fill="green" />
+<circle cx="200" cy="200" r="2" fill="green" />
+<circle cx="250" cy="480" r="2" fill="green" />
+<circle cx="300" cy="470" r="2" fill="green" />
+<circle cx="350" cy="460" r="2" fill="green" />
+<circle cx="400" cy="450" r="2" fill="green" />
+<circle cx="450" cy="440" r="2" fill="green" />
+<circle cx="500" cy="430" r="2" fill="green" />
+<circle cx="550" cy="420" r="2" fill="green" />
+</svg>
